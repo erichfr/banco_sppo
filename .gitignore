@@ -1,4 +1,4 @@
 composer.phar
 /vendor/
 .DS_Store
-src/
+banco_sppo\src\Config.php
