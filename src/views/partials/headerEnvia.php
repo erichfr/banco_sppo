@@ -1,5 +1,6 @@
 <h1>Envia Dados SPPO</h1>
-<h3>Data de hoje: <?= date('h:i:s | d-m-Y'); ?></h3>
+<script src="data-hora.js"></script>
+<div id="data-hora">
 <br>
 
 <hr>

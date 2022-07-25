@@ -6,7 +6,7 @@ use \core\Controller;
 
 class EnviaDadosController extends Controller {
 
-    public function enviadado() {
+    public function envia() {
         $this->render('envia-dados');
     }
   

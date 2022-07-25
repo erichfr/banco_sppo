@@ -4,7 +4,7 @@ use core\Router;
 $router = new Router();
 
 $router->get('/', 'HomeController@index');
-$router->get('/enviadado', 'EnviaDadosController@enviadado');
-$router->get('/consultadado', 'ConsultaDadosController@consultadado');
+$router->get('/envia', 'EnviaDadosController@envia');
+$router->get('/consulta', 'ConsultaDadosController@consulta');
 
 
